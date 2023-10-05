@@ -1,2 +1,2 @@
 # Coding-Assignments
-A variety of coding assignments completed throughout college
+A variety of coding assignments completed throughout college.
